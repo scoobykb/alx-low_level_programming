@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * using prinf function
- * return success using int main
+ *  main - Entry point
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
